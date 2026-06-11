@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Etka Candemir 👋</h1>
 
 <p align="center">
-  <b>SynCologne Kurucu Ortağı</b> · Yıldız Teknik Üniversitesi İstatistik Öğrencisi · BI & Veri Bilimi
+  <b>SynCologne Co-Founder</b> · Yıldız Teknik Üniversitesi İstatistik Öğrencisi · BI & Veri Bilimi
 </p>
 
 <p align="center">
