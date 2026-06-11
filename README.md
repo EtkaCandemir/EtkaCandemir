@@ -1,18 +1,18 @@
 <h1 align="center">Merhaba, ben Etka Candemir 👋</h1>
 
 <p align="center">
-  <b>SynCologne Co-Founder</b> · Yıldız Teknik Üniversitesi İstatistik Öğrencisi · BI & Veri Bilimi
+  İstatistik Öğrencisi · Veri Analizi · BI · Ürün Analitiği
 </p>
 
 <p align="center">
-  <a href="https://syncologne.com">
-    <img src="https://img.shields.io/badge/SynCologne-Canlı%20Proje-000000?style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/etka-candemir/">
     <img src="https://img.shields.io/badge/LinkedIn-Etka%20Candemir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alietkacandemir@gmail.com">
     <img src="https://img.shields.io/badge/Email-İletişim-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://syncologne.com">
+    <img src="https://img.shields.io/badge/SynCologne-Canlı%20Proje-000000?style=for-the-badge" />
   </a>
 </p>
 
@@ -20,196 +20,100 @@
 
 ## Hakkımda
 
-Ben **Yıldız Teknik Üniversitesi İstatistik Bölümü** öğrencisiyim. Veri analizi, iş zekası, ürün analitiği, istatistiksel modelleme ve veri odaklı karar sistemleri üzerine çalışıyorum.
+Ben **Yıldız Teknik Üniversitesi İstatistik Bölümü** öğrencisiyim.  
+Veri analizi, iş zekası, istatistiksel modelleme ve ürün odaklı analitik sistemler üzerine çalışıyorum.
 
-Sadece veri işlemekten ziyade, verinin nasıl anlamlı kararlara dönüştürülebileceğiyle ilgileniyorum. Özellikle **yorumlanabilir skor sistemleri, öneri algoritmaları, ürün kararları, kullanıcı geri bildirim analizi ve iş odaklı analitik yapılar** üzerine yoğunlaşıyorum.
-
-Şu anda ana odağım, parfüm keşfini daha kişiselleştirilmiş, açıklanabilir ve veri temelli hale getirmeyi amaçlayan **SynCologne** projesi.
-
----
-
-## Odaklandığım Alanlar
-
-- Veri Analizi  
-- İş Zekası  
-- Ürün Analitiği  
-- İstatistiksel Modelleme  
-- Öneri Sistemleri  
-- Skorlama ve Karar Mekanizmaları  
-- Veri Görselleştirme  
-- Kullanıcı Geri Bildirim Analizi  
-- Futbol Analitiği  
-- Koku ve Parfüm Verisi Analitiği  
+Amacım; veriyi yalnızca analiz etmek değil, onu **anlamlı karar mekanizmalarına, skor sistemlerine, dashboard’lara ve kullanıcı odaklı ürünlere** dönüştürmek.
 
 ---
 
-## Öne Çıkan Proje: SynCologne
+## İlgi Alanlarım
 
-<p align="center">
-  <a href="https://syncologne.com">
-    <img src="https://img.shields.io/badge/Ziyaret%20Et-syncologne.com-000000?style=for-the-badge" />
-  </a>
-</p>
+<details>
+<summary><b>Veri Analizi & İş Zekası</b></summary>
 
-**SynCologne**, parfüm keşfini daha kişisel, açıklanabilir ve veri odaklı hale getirmeyi amaçlayan bir koku zekası projesidir.
+- Python ile veri analizi  
+- SQL ile veri sorgulama  
+- Power BI dashboard tasarımı  
+- Excel ile raporlama ve analiz  
+- Veri temizleme, modelleme ve yorumlama  
 
-Proje; istatistik, ürün düşüncesi, kullanıcı geri bildirimi ve öneri mantığını bir araya getirerek kullanıcıların zevklerine, ruh haline, kullanım amacına, mevsime, hava durumuna ve layering tercihlerine daha uygun parfümler keşfetmesini hedefler.
+</details>
 
-### SynCologne ne yapar?
+<details>
+<summary><b>İstatistik & Modelleme</b></summary>
 
-- Parfümleri çok boyutlu bir koku sistemiyle profiller  
-- Kullanıcı tercihlerine ve bağlama göre parfüm önerileri üretir  
-- Layering ve bundle öneri mantığını destekler  
-- Siyah kutu öneriler yerine açıklanabilir skor sistemleri kullanır  
-- Subjektif koku tercihlerini ölçülebilir analitik değişkenlere dönüştürür  
-- Gerçek kullanıcı testleri ve geri bildirimlerle sürekli geliştirilir  
+- Regresyon analizi  
+- Ekonometri  
+- Sınıflandırma modelleri  
+- Risk skorlama  
+- Model değerlendirme metrikleri  
 
-### Projenin mevcut ölçeği
+</details>
 
-- 200+ parfümden oluşan katalog  
+<details>
+<summary><b>Ürün Analitiği & Girişimcilik</b></summary>
+
+- Kullanıcı davranışı analizi  
+- Geri bildirimlerden ürün geliştirme  
+- Skorlama ve öneri sistemleri  
+- Veri odaklı ürün kararları  
+- MVP geliştirme ve test süreçleri  
+
+</details>
+
+<details>
+<summary><b>Futbol Analitiği</b></summary>
+
+- xG ve xA  
+- PPDA  
+- Progressive passes / carries  
+- Final third entries  
+- Field tilt  
+- Radar chart yorumlama  
+- Oyuncu ve takım performans analizi  
+
+</details>
+
+---
+
+## Öne Çıkan Proje
+
+### SynCologne
+
+**SynCologne**, parfüm keşfini daha kişisel ve veri odaklı hale getirmeyi amaçlayan bir öneri sistemi projesidir.
+
+Projede; kullanıcı tercihleri, koku profilleri, kullanım bağlamı ve geri bildirimler üzerinden açıklanabilir bir öneri mantığı geliştiriyorum.
+
+- 200+ parfüm kataloğu  
 - 200+ test kullanıcısı  
 - 50+ kullanıcı geri bildirimi  
 - Kişiselleştirilmiş öneri akışı  
-- Layering ve bundle öneri mantığı  
-- Canlı ürün: [syncologne.com](https://syncologne.com)  
+- Layering / kombinasyon öneri mantığı  
 
-> SynCologne yalnızca bir parfüm öneri projesi değildir.  
-> Koku keşfi için yapılandırılmış ve açıklanabilir bir karar katmanı oluşturma denemesidir.
+Canlı ürün: [syncologne.com](https://syncologne.com)
 
 ---
 
-## Eğitim
-
-**Yıldız Teknik Üniversitesi**  
-Lisans, İstatistik  
-2022 – 2027
-
-İlgili alanlar:
-
-- Veri Analizi  
-- Regresyon Analizi  
-- Ekonometri  
-- Veri Madenciliği  
-- Veritabanı Sistemleri  
-- Yöneylem Araştırması  
-- İstatistiksel Modelleme  
-
----
-
-## Deneyim ve Aktiviteler
-
-### Kurucu Ortak / Ürün Sahibi — SynCologne
-
-SynCologne’da ürün mantığı, veri yapısı, skor sistemi, öneri akışı, kullanıcı testleri ve analitik konumlandırma üzerine çalışıyorum.
-
-Sorumluluk alanlarım:
-
-- Parfüm veri yapısını tasarlamak  
-- Skorlama ve öneri mantığını oluşturmak  
-- Kullanıcı tercihlerini analitik değişkenlere dönüştürmek  
-- Sistemi gerçek kullanıcılarla test etmek  
-- Geri bildirimleri toplamak ve yorumlamak  
-- Ürün deneyimini ve konumlandırmasını geliştirmek  
-- B2C ve B2B kullanım senaryoları üzerine çalışmak  
-
-### Veri Bilimi ve Analitik Toplulukları
-
-Veri bilimi ve öğrenci topluluğu çalışmalarında organizasyon, koordinasyon, etkinlik yönetimi, atölye süreçleri ve proje odaklı öğrenme ortamlarında yer aldım.
-
-Aktif olarak geliştirdiğim alanlar:
-
-- Veri analizi iş akışları  
-- Dashboard ve raporlama tasarımı  
-- İş odaklı analitik düşünme  
-- Analitik bulguları anlaşılır şekilde aktarma  
-- Proje koordinasyonu  
-- Veriyle hikâye anlatımı ve sunum  
-
-### Futbol Analitiği
-
-Futbol veri analitiği alanında da çalışıyor ve performans metrikleri üzerinden maç ve oyuncu yorumlamaya odaklanıyorum.
-
-İlgilendiğim başlıklar:
-
-- xG  
-- xA  
-- PPDA  
-- Progressive passes  
-- Progressive carries  
-- Final third entries  
-- Field tilt  
-- Shot quality  
-- Pass networks  
-- Player similarity  
-- Radar chart yorumlama  
-
----
-
-## Kullandığım Teknolojiler
-
-### Veri Analizi ve Modelleme
+## Kullandığım Araçlar
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
-</p>
-
-### İş Zekası ve Veritabanları
-
-<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Ürün ve Geliştirme
-
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## Şu Anda Geliştirdiğim Alanlar
+## Diğer Projeler
 
-- Analitik odaklı SQL kullanımı  
-- Power BI dashboard tasarımı  
-- Ürün analitiği  
-- İstatistiksel modelleme  
-- Öneri sistemleri  
-- Python ile veri analizi  
-- Futbol analitiği  
-- İş odaklı veri hikâyeleştirme  
-
----
-
-## Seçilmiş Projeler
-
-### SynCologne
-
-Veri odaklı bir koku zekası ve parfüm öneri sistemi.
-
-**Anahtar kelimeler:** ürün analitiği, öneri mantığı, skor sistemi, kullanıcı geri bildirimi, parfüm verisi, kişiselleştirme, layering engine
-
-Canlı ürün: [syncologne.com](https://syncologne.com)
-
-### Ekonometri Projesi
-
-Türkiye’de gram altın fiyatının ekonomik ve finansal değişkenlerle modellenmesine odaklanan akademik ekonometri projesi.
-
-**Anahtar kelimeler:** ekonometri, regresyon, enflasyon, faiz, döviz kuru, altın fiyat analizi
-
-### Tedarikçi Risk Değerlendirme Projesi
-
-Tedarikçi risk sınıflandırması ve model karşılaştırmasına odaklanan makine öğrenmesi projesi.
-
-**Anahtar kelimeler:** sınıflandırma, risk skorlama, lojistik regresyon, random forest, KNN, model değerlendirme
+- **Ekonometri Projesi:** Gram altın fiyatını ekonomik değişkenlerle modelleme  
+- **Tedarikçi Risk Değerlendirme:** Risk sınıflandırması ve model karşılaştırması  
+- **Veri Analizi Çalışmaları:** Akademik ve kişisel analiz projeleri  
 
 ---
 
@@ -225,37 +129,6 @@ Tedarikçi risk sınıflandırması ve model karşılaştırmasına odaklanan ma
 
 ---
 
-## Benimle İletişime Geç
-
-<p>
-  <a href="https://www.linkedin.com/in/etka-candemir/">
-    <img src="https://img.shields.io/badge/LinkedIn-Etka%20Candemir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alietkacandemir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alietkacandemir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://syncologne.com">
-    <img src="https://img.shields.io/badge/SynCologne-syncologne.com-000000?style=for-the-badge" />
-  </a>
-</p>
-
----
-
 <p align="center">
-  İstatistik, analitik düşünme ve ürün yaklaşımıyla veri odaklı sistemler geliştiriyorum.
+  Veriyi analiz etmeyi, anlamlandırmayı ve ürün kararlarına dönüştürmeyi seviyorum.
 </p>
-
-<!--
-**EtkaCandemir/EtkaCandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
