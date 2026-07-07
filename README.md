@@ -222,9 +222,19 @@ Bu çalışmalar, teorik istatistik bilgisini gerçek veri setleri üzerinde uyg
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EtkaCandemir&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EtkaCandemir&theme=tokyonight" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtkaCandemir&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+<br/>
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EtkaCandemir&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EtkaCandemir&theme=tokyonight" />
+
+<br/>
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EtkaCandemir&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EtkaCandemir&theme=tokyonight&utcOffset=3" />
 
 </div>
 
